@@ -24,7 +24,6 @@ request.onsuccess = function (e) {
 
 // check database
 const saveRecord = (record) => {
-  console.log("Save record invoked");
   const transaction = db.transaction(["budgetDB"], "readwrite");
   const store = transaction.objectStore("budgetDB");
   store.add(record);
