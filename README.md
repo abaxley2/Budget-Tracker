@@ -2,20 +2,22 @@
 
 ## Description
 
-This application is a demo of my abilities to use Mongoose object modeling to create a functional workout tracker.
+This application is a demo of my abilities to cache client-side files for accessability.
 
-This application starts with a homepage that allows the user to select between beginning a workout and adding to an already started one. It then feeds the data for the user's workout into a database to track it and provide a dashboard where two graphs appear and present previous workout information.
+This application shows a budget graph, and it gives users the option to create transactions that add or subtract from the total. These transactions are stored if offline, and are added back once network coverage resumes.
 
-![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/blob/main/images/tracker1.png)  
-![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/blob/main/images/tracker2.png)  
-![Workout-Tracker Picture of Work](https://github.com/abaxley2/Workout-Tracker/blob/main/images/tracker3.png)
+![Budget-Tracker Picture of Work]()  
+![Budget-Tracker Picture of Work]()
 
 ## Dependencies
 
 This application uses the following to deploy and run:  
 -Express  
+-IdexDB
 -Mongoose  
 -Node
+-Heroku
+-MongoAtlas
 
 This application's API routes were also tested with:  
 -Morgan
@@ -27,8 +29,8 @@ AusBaxley@gmail.com
 
 ## GitHub Link
 
-https://github.com/abaxley2/Workout-Tracker
+https://github.com/abaxley2/Budget-Tracker
 
 ## Deployed Link
 
-https://peaceful-dawn-46696.herokuapp.com/
+https://protected-ocean-29970.herokuapp.com/
