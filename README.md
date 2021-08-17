@@ -13,11 +13,11 @@ This application shows a budget graph, and it gives users the option to create t
 
 This application uses the following to deploy and run:  
 -Express  
--IdexDB
+-IdexDB  
 -Mongoose  
--Node
--Heroku
--MongoAtlas
+-Node  
+-Heroku  
+-MongoAtlas  
 
 This application's API routes were also tested with:  
 -Morgan
@@ -29,8 +29,8 @@ AusBaxley@gmail.com
 
 ## GitHub Link
 
-https://github.com/abaxley2/Budget-Tracker
+https://github.com/abaxley2/Budget-Tracker  
 
 ## Deployed Link
 
-https://protected-ocean-29970.herokuapp.com/
+https://protected-ocean-29970.herokuapp.com/  
